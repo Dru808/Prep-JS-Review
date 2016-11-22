@@ -10,6 +10,13 @@ Go get em!*/
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
 
+var yourName = "Andrew";
+var neighborName = "Tyler";
+var teacherName = "Mrs. Oda";
+
+console.log(yourName, neighborName, teacherName);
+
+
 /*2. Variable with a Number as their value.
 Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear. Please assign the actual data for each variable.
 Console log each variable.*/
