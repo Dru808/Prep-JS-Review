@@ -43,8 +43,8 @@ Declare variables named completedCodingChallenge, traveledToSpace.  Console log 
 var completedCodingChallenge = null;
 var traveledToSpace = null;
 
-console.log(completedCodingChallenge);
-console.log(traveledToSpace);
+// console.log(completedCodingChallenge);
+// console.log(traveledToSpace);
 
 
 
@@ -53,6 +53,11 @@ Declare a variable named japanPrefectures and assign the value of any 5 prefectu
 Console log the variable 
 Console log the value at index 1.
 Console log the value at index 3.*/
+var japanPrefectures = ["Tokyo", "Yokohama", "Yokoshima", "Okinawa", "Kagawa"];
+
+console.log(japanPrefectures);
+console.log(japanPrefectures[1]);
+console.log(japanPrefectures[3]);
 
 /*6.  Variable with Array for its value.
 Declare a variable named planets and assign the value of each planet in our solar system, in the order of distance from the sun.  
